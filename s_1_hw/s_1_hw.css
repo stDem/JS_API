@@ -1,0 +1,15 @@
+table {
+  width: 70%; /* Ширина таблицы */
+}
+td,
+th {
+  padding: 3px; /* Поля вокруг содержимого ячеек */
+  border: solid black 1px;
+  width: 19.6%;
+}
+.empty {
+  border: none;
+  }
+.hidden{
+    display  : none;
+}
