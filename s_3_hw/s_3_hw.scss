@@ -1,0 +1,23 @@
+$colorText: rgb(47, 47, 62);
+$colorSelectiveSite: rgb(131, 131, 204);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.photo_box {
+  &__author {
+    color: $colorText;
+  }
+  &__likes_btn {
+
+    .like_img {
+      height: 10px;
+      width: 10px;
+    }
+    .like_count {
+      height: 3px;
+      width: 3px;
+          }
+  }
+}

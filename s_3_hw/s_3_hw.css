@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.photo_box__author {
+  color: rgb(47, 47, 62);
+}
+.photo_box__likes_btn .like_img {
+  height: 10px;
+  width: 10px;
+}
+.photo_box__likes_btn .like_count {
+  height: 3px;
+  width: 3px;
+}/*# sourceMappingURL=s_3_hw.css.map */
